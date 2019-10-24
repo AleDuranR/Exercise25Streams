@@ -1,0 +1,2 @@
+module Exercise25Streams {
+}
